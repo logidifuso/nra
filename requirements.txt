@@ -1,0 +1,12 @@
+mpi4py==3.0.3
+opencv_python==4.5.1.48
+torch==1.9.0
+gym==0.21.0
+box2d_py==2.3.8
+mujoco_py==2.1.2.14
+stable-baselines3==1.2.0
+sb3_contrib==1.2.0
+ipykernel==6.7.0
+notebook==6.4.7
+networkx==2.6.3
+pyglet==1.5.21
